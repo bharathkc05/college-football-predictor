@@ -40,3 +40,8 @@ desktop.ini
 build/
 dist/
 *.egg-info/
+
+# Helper scripts (not needed in repository)
+init_git.ps1
+QUICK_START_GITHUB.md
+GITHUB_PUSH_GUIDE.md
