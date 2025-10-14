@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+cuda_env/
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific - Large data files (optional, comment out if you want to include them)
+# dataset/raw/*.csv
+# dataset/processed/*.csv
+
+# Results (optional, comment out if you want to include visualization outputs)
+# results/*.png
+# results/*.csv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
